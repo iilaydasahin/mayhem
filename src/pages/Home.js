@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import BannerVideo from "../assets/Mayhem.mp4";
 import "../styles/Home.css";
 
